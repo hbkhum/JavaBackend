@@ -1,4 +1,5 @@
 # 1. Java Backend
+This a same project of Net Core, but now using Java Spring Boot, Hibernate
 Currently is very import to test the codes each stage, this is possible using the SOLID fundamentals, also is very 
 important the architecture to use, for this project I using Onion Architecture.
 
@@ -37,15 +38,17 @@ It's the outer-most layer, and keeps peripheral concerns like UI and tests. For 
 This project besides applying the Onion architecture and  combinate the SOLID fundamentals, 
 It has the following characteristics:
 
-**1.- Sprint Boot**
+**1.- Spring Boot**
 
 **2.- Hibernate**
+
+**3.- JpaRepository**
 
 
 
 Is a backend where you can create differents frontend as Mobile Apps, WPF Apps and Web Apps
 
-___For this project I used Abstract class, Interfaces, Generic Class, IoC.___
+___For this project I used Abstract class, Interfaces,  IoC.___
 
 
 
