@@ -1,5 +1,7 @@
 # 1. Java Backend
-This a same project of Net Core, but now using Java Spring Boot, Hibernate
+This a same project of Net Core, but now using Java Spring Boot, Hibernate.
+
+
 Currently is very import to test the codes each stage, this is possible using the SOLID fundamentals, also is very 
 important the architecture to use, for this project I using Onion Architecture.
 
