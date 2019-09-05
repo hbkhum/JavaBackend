@@ -1,3 +1,6 @@
+ ![alt text](https://github.com/hbkhum/JavaBackend/blob/master/Java.png) 
+
+
 # 1. Java Backend
 This a same project of Net Core, but now using Java Spring Boot, Hibernate.
 
@@ -52,7 +55,7 @@ Is a backend where you can create differents frontend as Mobile Apps, WPF Apps a
 
 ___For this project I used Abstract class, Interfaces,  IoC.___
 
- ![alt text](https://github.com/hbkhum/JavaBackend/blob/master/Java.png) 
+
 
 
 
